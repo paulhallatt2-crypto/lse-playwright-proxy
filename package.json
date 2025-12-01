@@ -1,5 +1,5 @@
 {
-  "name":  "lse-playwright-proxy",
+  "name":  "lse-playwright-proxy ",
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
